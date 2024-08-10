@@ -1,0 +1,17 @@
+{
+  "recommendations": [
+    "dbaeumer.vscode-eslint",
+    "aaron-bond.better-comments",
+    "streetsidesoftware.code-spell-checker",
+    "editorconfig.editorconfig",
+    "mhutchie.git-graph",
+    "esbenp.prettier-vscode",
+    "bradlc.vscode-tailwindcss",
+    "gruntfuggly.todo-tree",
+    "github.vscode-pull-request-github",
+    "wix.vscode-import-cost",
+    "naumovs.color-highlight",
+    "antfu.iconify",
+    "yoavbls.pretty-ts-errors"
+  ]
+}
